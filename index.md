@@ -1,21 +1,22 @@
-### Hello Friend! 
+### Welcome! 
 
 I am experienced SysOps, Network & Linux Admin, Cloud Engineer for hire! 
+
 
 ### What can I do for you
 
 #### I can be your SysOps
--> Automation scripts in Ansible, Bash
--> Imperva configuration
--> Cloud services configuration (eg. Compute engine VMs, Cloud SQL, Cloud DNS, Firewall and more)
--> Configure proxies, load balancers, web servers based on Nginx
--> Configure DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
--> Set up databases 
+* Automation scripts in Ansible, Bash
+* Imperva configuration
+* Cloud services configuration (eg. Compute engine VMs, Cloud SQL, Cloud DNS, Firewall and more)
+* Configure proxies, load balancers, web servers based on Nginx
+* Configure DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
+* Set up databases 
 
 #### I can be your Security Specialist
--> Linux servers hardening
--> Infrastructure reconessaince
--> Network, servers pentesting
+* Linux servers hardening
+* Infrastructure reconessaince
+* Network, servers pentesting
 
 
 ### Technologies I worked with
